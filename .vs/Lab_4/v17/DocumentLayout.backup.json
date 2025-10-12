@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2229F31E-A0EA-450F-880E-0662284919DD}|Lab_4\\Lab_4.csproj|c:\\users\\sempa\\desktop\\khai\\oop\\lab_4\\lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2229F31E-A0EA-450F-880E-0662284919DD}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2229F31E-A0EA-450F-880E-0662284919DD}|Lab_4\\Lab_4.csproj|c:\\users\\sempa\\desktop\\khai\\oop\\lab_4\\lab_4\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2229F31E-A0EA-450F-880E-0662284919DD}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2229F31E-A0EA-450F-880E-0662284919DD}|Lab_4\\Lab_4.csproj|c:\\users\\sempa\\desktop\\khai\\oop\\lab_4\\lab_4\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2229F31E-A0EA-450F-880E-0662284919DD}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2229F31E-A0EA-450F-880E-0662284919DD}|Lab_4\\Lab_4.csproj|c:\\users\\sempa\\desktop\\khai\\oop\\lab_4\\lab_4\\planettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2229F31E-A0EA-450F-880E-0662284919DD}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\planettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlanetType.cs",
+              "DocumentMoniker": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_4\\Lab_4\\PlanetType.cs",
+              "RelativeDocumentMoniker": "Lab_4\\PlanetType.cs",
+              "ToolTip": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_4\\Lab_4\\PlanetType.cs",
+              "RelativeToolTip": "Lab_4\\PlanetType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T22:41:09.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_4\\Lab_4\\Planet.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Planet.cs",
+              "ToolTip": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_4\\Lab_4\\Planet.cs",
+              "RelativeToolTip": "Lab_4\\Planet.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAIwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T22:40:46.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_4\\Lab_4\\InputHelper.cs",
+              "RelativeDocumentMoniker": "Lab_4\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_4\\Lab_4\\InputHelper.cs",
+              "RelativeToolTip": "Lab_4\\InputHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T22:40:16.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_4\\Lab_4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Program.cs",
+              "ToolTip": "C:\\Users\\sempa\\Desktop\\KHAI\\OOP\\Lab_4\\Lab_4\\Program.cs",
+              "RelativeToolTip": "Lab_4\\Program.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAwwM4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T22:39:38.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

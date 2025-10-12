@@ -1,0 +1,14 @@
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.exe
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.deps.json
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.runtimeconfig.json
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.dll
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\bin\Debug\net8.0\Lab_4.pdb
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.AssemblyInfoInputs.cache
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.AssemblyInfo.cs
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.dll
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\obj\Debug\net8.0\refint\Lab_4.dll
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.pdb
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\obj\Debug\net8.0\Lab_4.genruntimeconfig.cache
+C:\Users\sempa\Desktop\KHAI\OOP\Lab_4\Lab_4\obj\Debug\net8.0\ref\Lab_4.dll
